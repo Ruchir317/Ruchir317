@@ -8,9 +8,9 @@ I build cloud systems, backends and mobile apps, with a soft spot for distribute
 **Before:** SDE Intern at AWS (Amazon EKS Metrics Service, in Go) · Data Engineer at BusinessNext.
 
 ## Selected work
-- **FACTUAL**: real-time speech fact-checking with retrieval and a self-critique loop. 84% accuracy and 0.83 F1 on post-cutoff claims vs 63% zero-shot. ([SearchAPI](https://github.com/Ruchir317/SearchAPI))
+- **FACTUAL**: real-time speech fact-checking with retrieval and a self-critique loop. 84% accuracy and 0.83 F1 on post-cutoff claims vs 63% zero-shot. ([Claim Verifier](https://github.com/Ruchir317/claim-verifier))
 - **Materialized views in DuckDB**: extended the C++ parser, planner and executor. Up to 100x faster retrieval on TPC-H.
-- **CARLA cooperative V2X intersection**: replaces traffic lights with a reservation protocol. 51% lower crossing time. ([repo](https://github.com/Ruchir317/carla-coop-v2x))
+- **CARLA cooperative V2X intersection**: replaces traffic lights with a reservation protocol. 51% lower crossing time. ([repo](https://github.com/Ruchir317/carla-v2x-intersection))
 - **Published:** [An Approach Travel Recommendation System and Route Optimizer using AI](https://doi.org/10.1109/ICAST55766.2022.10039531), IEEE ICAST 2022
 
 ## Stack
